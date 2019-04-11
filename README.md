@@ -1,2 +1,3 @@
-# spyder-bot
-Bot to automate some tasks on the issue tracker
+# spyder-bot-service
+
+Check duplicate issues.
